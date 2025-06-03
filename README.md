@@ -1,3 +1,2 @@
 # Du_An_LT_Di_Dong
-Lưu dự án cuối kì môn di động
-CHUYỂN MAIN SANG MASTER SẼ THẤY CODE MÃ NGUỒN
+CHUYỂN MAIN SANG MASTER SẼ THẤY CODE MÃ NGUỒN DỰ ÁN APP TRẮC NGHIỆM ĐỊA LÝ 12
